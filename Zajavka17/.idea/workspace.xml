@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f61ee747-d5e5-4801-88ac-be7039a8806b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../test_JS/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_JS/src/test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29qdIDndNEVcwymsMami0xWSQ38" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="zajavka18_dziedziczenie" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnotherQuizQuestion">
+    <configuration name="AnotherQuizQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajavka18_dziedziczenie.AnotherQuizQuestion" />
+      <module name="Zajavka17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajavka18_dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Autoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajavka.Autoboxing" />
+      <module name="Zajavka17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajavka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajavka18_dziedziczenie.InheritanceExample" />
+      <module name="Zajavka17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajavka18_dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajavka18_dziedziczenie.QuizClassExample" />
+      <module name="Zajavka17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajavka18_dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceVsObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zajavka18_dziedziczenie.ReferenceVsObject" />
+      <module name="Zajavka17" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zajavka18_dziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnotherQuizQuestion" />
+        <item itemvalue="Application.QuizClassExample" />
+        <item itemvalue="Application.ReferenceVsObject" />
+        <item itemvalue="Application.InheritanceExample" />
+        <item itemvalue="Application.Autoboxing" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61ee747-d5e5-4801-88ac-be7039a8806b" name="Changes" comment="" />
+      <created>1653844470530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653844470530</updated>
+    </task>
+    <servers />
+  </component>
+</project>

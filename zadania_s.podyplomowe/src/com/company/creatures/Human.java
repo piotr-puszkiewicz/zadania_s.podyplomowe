@@ -1,15 +1,23 @@
-package com.company;
+package com.company.creatures;
 
-public class Human {
-    String firstName;
-    String lastName;
-    Integer age;
-    Boolean isAlive;
+import com.company.device.Car;
+import com.company.device.Phone;
 
-    Phone mobile;
-    Animal pet;
-    private Car car;
+public class Human extends Animal {
+    public String firstName;
+    public String lastName;
+
+    public Phone mobile;
+    public Animal pet;
+    public Car car;
     private Double salary;
+    public Double cash;
+
+    public Human() {
+        super("homo sapiens");
+        this.cash = 0.0;
+    }
+
 
     public Car getCar() {
         return this.car;
@@ -41,5 +49,14 @@ public class Human {
             System.out.println("nie ukrywaj dochodów, ZUS i US i tak cie znajdą");
             this.salary = salary;
         }
+    }
+
+    @Override
+    public void takeForAWalk() {
+        System.out.println("Inne wyprowadzanie na spacer");
+    }
+
+    public String toString() {
+        return this.firstName + " " + this.lastName + " lat " + age;
     }
 }
